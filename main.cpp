@@ -6,7 +6,7 @@
 
 #include <iostream>
 #include <string>
-#include "BullCowGame/FBullCowGame.h"
+#include "FBullCowGame.h"
 
 /* using unreal syntax */
 using FText = std::string;
